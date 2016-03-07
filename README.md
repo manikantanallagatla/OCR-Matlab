@@ -41,7 +41,7 @@ Every optical image when converted into grey scale can be considered as a matrix
 ###*Usage*:
 
 -------------
-Run alphabet.m file to load capture an image with te webcam and recognise the text in it.
+Run alphabet.m file to load capture an image with the webcam and recognise the text in it.
 
 
 This code is edited using Matlab
